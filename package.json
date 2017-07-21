@@ -1,0 +1,23 @@
+{
+  "name": "angular-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeloLuna/Angular-firebase.git"
+  },
+  "author": "angeloLuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeloLuna/Angular-firebase/issues"
+  },
+  "homepage": "https://github.com/angeloLuna/Angular-firebase#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
